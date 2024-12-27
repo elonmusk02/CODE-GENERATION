@@ -60,31 +60,31 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Fredie♻️_*
+*_Made With by Elon🌟_*
 ______________________________________
 ╔════◇
-║ FOR ALL FREDIE BOTS
+║ FOR ALL ELON BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@freeonlinetvT1_
-║⬡ *Wa-me:* _https://wa.me/255752593977_
-║⬡ *Wa-me:* _https://wa.me/255620814108_
-║⬡ *T-me:* _t.me/freditech_
+║⬡ *Ytube:* _https://youtube.com/@emmanuel-ri2to?si=OarIrdR1347sOxWZ_
+║⬡ *Wa-me:* _https://wa.me/2348167574039_
+║⬡ *Wa-me:* _https://wa.me/2347018486818_
+║⬡ *T-me:* _t.me/elondrex1_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *LUCKY_MD:* _https://github.com/Fred1e/LUCKY_MD_
-║⬡ *My Github:* _https://github.com/Fred1e_
+║⬡ *LUCKY_MD:* _https://github.com/elonmusk02/Elon-MD_
+║⬡ *My Github:* _https://github.com/elonmusk02_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F_
-║⬡ *WA GROUP:* _https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9_
-║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
+║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VagZ69BC6Zva2YxKOQ3x_
+║⬡ *WA GROUP:* _https://chat.whatsapp.com/C1lj4HLF4w0Iowssma5QY1_
+║⬡ *TELEGRAM:* _https://t.me/memesistech_
 ║
-║⬡ *©Copyright* _Fredi-Ezra|kingfredie_
+║⬡ *©Copyright* _Elon-Drex|Elon_
 ╚══════════════════════════════════╝
 _____________________________________
 	
