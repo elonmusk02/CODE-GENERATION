@@ -1,8 +1,8 @@
 {
-    "name": "Fredie Session Generator",
-    "description": "I'm Web Session Generator by kingfredie Me fredie",
+    "name": "Elon Session Generator",
+    "description": "I'm Web Session Generator by Elondrex Me Elon",
     "logo": "",
-    "repository": "https://github.com/Fred1e/LUCKY_MD",
+    "repository": "https://github.com/elonmusk02/Elon-MD",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
